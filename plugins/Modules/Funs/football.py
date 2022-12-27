@@ -1,5 +1,4 @@
 from pyrogram import Client, filters
-from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # EMOJI CONSTANTS
 GOAL_E_MOJI = "⚽"
